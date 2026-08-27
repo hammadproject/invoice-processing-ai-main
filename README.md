@@ -2,7 +2,8 @@
 
 An AI-assisted invoice processing application that combines **Google Cloud Document AI**, **FastAPI**, **Streamlit**, and a conversational **LangChain agent** to extract invoice information, calculate extraction confidence, and provide invoice-related analysis.
 
-<img width="1197" height="604" alt="image" src="https://github.com/user-attachments/assets/e1085c15-586a-41d6-8474-117d2ba8a9bc" />
+
+<img width="1573" height="740" alt="image" src="https://github.com/user-attachments/assets/59427c6a-0a74-446e-9f93-fd16b560f3ca" />
 
 ## Overview
 
